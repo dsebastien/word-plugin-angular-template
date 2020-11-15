@@ -28,11 +28,11 @@
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
-    "@angular/common": "10.2.3",
-    "@angular/compiler": "10.2.3",
-    "@angular/core": "10.2.3",
-    "@angular/platform-browser": "10.2.3",
-    "@angular/platform-browser-dynamic": "10.2.3",
+    "@angular/common": "11.0.0",
+    "@angular/compiler": "11.0.0",
+    "@angular/core": "11.0.0",
+    "@angular/platform-browser": "11.0.0",
+    "@angular/platform-browser-dynamic": "11.0.0",
     "@microsoft/office-js-helpers": "1.0.2",
     "office-ui-fabric-js": "1.5.0",
     "rxjs": "6.6.3",
