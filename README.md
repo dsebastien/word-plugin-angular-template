@@ -1,7 +1,7 @@
 # Office-Addin-TaskPane-Angular
  
 This repository is an empty Word plugin using Angular.
-It was generated using `yo office` and adapted to work with Angular 10+ instead of Angular 5.
+It was generated using `yo office` and adapted to work with Angular 11+ instead of Angular 5, which is still the one used at the moment. To support Angular 11+, I've added some dependencies (e.g., RxJS, zone.js), updated some of the other dependencies (Angular, TypeScript, Babel, etc). Unfortunately I couldn't update Webpack up to v4 because it would require a bit more gruntswork to rewrite the config; not that hard, but I have other things in the oven.. ;-)
 
 ## TypeScript
 
