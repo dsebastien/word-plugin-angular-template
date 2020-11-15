@@ -3,6 +3,8 @@
 This repository is an empty Word plugin using Angular.
 It was generated using `yo office` and adapted to work with Angular 11+ instead of Angular 5, which is still the one used at the moment. To support Angular 11+, I've added some dependencies (e.g., RxJS, zone.js), updated some of the other dependencies (Angular, TypeScript, Babel, etc). Unfortunately I couldn't update Webpack up to v4 because it would require a bit more gruntswork to rewrite the config; not that hard, but I have other things in the oven.. ;-)
 
+Note that the template is not overly tied to word and can most probably easily be adapted to create Outlook/Excel/etc plugins instead.
+
 ## TypeScript
 
 This template is written using [TypeScript](http://www.typescriptlang.org/). For the JavaScript version of this template, go to [Office-Addin-TaskPane-Angular-JS](https://github.com/OfficeDev/Office-Addin-TaskPane-Angular-JS).
